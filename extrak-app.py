@@ -2,7 +2,7 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 from io import BytesIO
-!pip install streamlit pandas openpyxl matplotlib
+
 
 
 # Judul aplikasi
